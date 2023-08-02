@@ -1,3 +1,3 @@
-The website is not live at all times as the deployment takes backend vps server
-Since it is not sustainable to keep the project live at all times i will share the code here along with a video of live project
-You can download the project and run it on local machine for free and without any issue.
+The website is not always live as the deployment takes the backend VPS server.
+Since it is not sustainable to keep the project live at all times I will share the code here along with a video of the live project.
+You can download the project and run it on the local machine for free without issue.
